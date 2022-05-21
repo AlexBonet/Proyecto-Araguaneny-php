@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+<usuarios>
+  <usuario>
+    <login tipousuario="root">root</login>
+    <passwd>restaurante</passwd>
+  </usuario>
+
+<usuario>
+    <login tipousuario="empleado"></login>
+    <passwd></passwd>
+    <nombre></nombre>
+    <apellidos></apellidos>
+    <telefono></telefono>
+    <email></email>
+  </usuario>
+
+  <usuario>
+    <login tipousuario="empleado">eee</login>
+    <passwd>eee</passwd>
+    <nombre>eee</nombre>
+    <apellidos>eee</apellidos>
+    <telefono>eee</telefono>
+    <email>eee@eee.com</email>
+  </usuario>
+
+<usuario>
+    <login tipousuario="cliente"></login>
+    <passwd></passwd>
+    <nombre></nombre>
+    <apellidos></apellidos>
+    <telefono></telefono>
+    <email></email>
+  </usuario>
+
+  <usuario>
+    <login tipousuario="cliente">ccc</login>
+    <passwd>ccc</passwd>
+    <nombre>ccc</nombre>
+    <apellidos>ccc</apellidos>
+    <telefono>ccc</telefono>
+    <email>ccc@ccc.com</email>
+  </usuario>
+
+</usuarios>
+
+<reservas>
+  <reserva>
+    <fecha></fecha>
+    <hora></hora>
+    <observaciones></observaciones>
+    <nombre></nombre>
+    <apellidos></apellidos>
+  </reserva>
+
+  <reserva>
+    <fecha>ccc</fecha>
+    <hora>ccc</hora>
+    <observaciones>ccc</observaciones>
+    <nombre>ccc</nombre>
+    <apellidos>ccc</apellidos>
+  </reserva>
+
+</reservas>
+</restaurante>
